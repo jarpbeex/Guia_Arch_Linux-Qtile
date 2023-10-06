@@ -1,4 +1,4 @@
-# Guía de instalación de Arch Linux con Qtile
+# Guía de instalación de Arch Linux con Qtile (Falta la parte de instalar el gestor de ventanas)
 
 ## Configuración teclado y conectar internet (Cable o WIFI)
 #### Configurar la distribución de teclado
